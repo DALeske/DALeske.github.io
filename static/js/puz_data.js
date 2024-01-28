@@ -1,6 +1,6 @@
 var puz_data = [{
   "PuzzleNum": "1",
-  "Title": "Lighthouse_Puzdata",
+  "Title": "Lighthouse",
   "Pieces": "500",
   "Company": "Re-marks",
   "Size": "24 X 18",
