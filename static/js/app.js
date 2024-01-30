@@ -19,15 +19,10 @@ function buildTable(data) {
     // each value as a table cell (td)
     Object.values(dataRow).forEach((val) => {
       
-      if (key ==='URL') {
-      ahref = row[key];
-      let cell = <a ahref> a.href </a>;
-      }
-      
-      else{
+
         let cell = row.append("td");
       cell.text(val);
-    }
+   
 
     });
   });
