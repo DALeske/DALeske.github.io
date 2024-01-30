@@ -1,6 +1,3 @@
-runs:
-  using: 'node20'
-  main: 'app.js'
 
 // from puz_data.js
 const tableData = puz_data;
