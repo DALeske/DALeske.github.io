@@ -829,7 +829,7 @@ var puz_data = [{
   "Title": "Unknown",
   "Pieces": "1000",
   "Company": "unknown",
-  "Size": "unknown"
+  "Size": "unknown",
   "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_119.jpg"
 },{
   "PuzzleNum": "120",
