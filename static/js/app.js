@@ -18,8 +18,17 @@ function buildTable(data) {
     // Loop through each field in the dataRow and add
     // each value as a table cell (td)
     Object.values(dataRow).forEach((val) => {
-      let cell = row.append("td");
+      
+      if (key ==='URL') {
+      ahref = row[key];
+      let cell = <a ahref> a.href </a>;
+      }
+      
+      else{
+        let cell = row.append("td");
       cell.text(val);
+    }
+
     });
   });
 }
