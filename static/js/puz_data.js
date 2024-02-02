@@ -4,7 +4,7 @@ var puz_data = [{
   "Pieces": "500",
   "Company": "Re-marks",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_001.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_001.JPG"
 },{
   "PuzzleNum": "2",
   "Title": "Cakes",
@@ -67,7 +67,7 @@ var puz_data = [{
   "Pieces": "500",
   "Company": "Galison",
   "Size": "20 X 20",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_010.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_010.jpeg"
 },{
   "PuzzleNum": "11",
   "Title": "60 American National Parks",
@@ -81,7 +81,7 @@ var puz_data = [{
   "Pieces": "500",
   "Company": "Ravensburger",
   "Size": "19.5 X 14.25",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_012.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_012.jpeg"
 },{
   "PuzzleNum": "13",
   "Title": "Black Beauty Carousel Horse",
@@ -235,7 +235,7 @@ var puz_data = [{
   "Pieces": "550",
   "Company": "Ceaco",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_034.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_034.jpeg"
 },{
   "PuzzleNum": "35",
   "Title": "Bon Appetit",
@@ -256,7 +256,7 @@ var puz_data = [{
   "Pieces": "300",
   "Company": "Buffalo",
   "Size": "21.5 X 15",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_037.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_037.jpeg"
 },{
   "PuzzleNum": "38",
   "Title": "Donut Resist",
@@ -340,7 +340,7 @@ var puz_data = [{
   "Pieces": "300",
   "Company": "Master Pieces",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_049.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_049.jpeg"
 },{
   "PuzzleNum": "50",
   "Title": "Mandala Stones",
@@ -473,7 +473,7 @@ var puz_data = [{
   "Pieces": "500",
   "Company": "Springbok",
   "Size": "20 X 20",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_068.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_068.jpeg"
 },{
   "PuzzleNum": "69",
   "Title": "Cupcakes",
@@ -487,7 +487,7 @@ var puz_data = [{
   "Pieces": "100",
   "Company": "Great American Puzzle Factory",
   "Size": "13 round",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_070.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_070.jpeg"
 },{
   "PuzzleNum": "71",
   "Title": "Minnesota Nice up North",
@@ -501,7 +501,7 @@ var puz_data = [{
   "Pieces": "550",
   "Company": "Erickson Post",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_072.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_072.jpeg"
 },{
   "PuzzleNum": "73",
   "Title": "Vintage Library",
@@ -515,7 +515,7 @@ var puz_data = [{
   "Pieces": "550",
   "Company": "Puzzle that Rock",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_074.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_074.jpeg"
 },{
   "PuzzleNum": "75",
   "Title": "Sea Horsing Around",
@@ -634,7 +634,7 @@ var puz_data = [{
   "Pieces": "500",
   "Company": "Cobble Hill",
   "Size": "24 X 18",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_091.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_091.jpeg"
 },{
   "PuzzleNum": "92",
   "Title": "Welcome to My Garden",
@@ -781,49 +781,49 @@ var puz_data = [{
   "Pieces": "750",
   "Company": "Professor Puzzle",
   "Size": "24 X 15",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_112.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_112.JPG"
 },{
   "PuzzleNum": "113",
   "Title": "Bryce National Park",
   "Pieces": "500",
   "Company": "Professor Puzzle",
   "Size": "19 X 14",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_113.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_113.JPG"
 },{
   "PuzzleNum": "114",
   "Title": "Grand Teton National Park",
   "Pieces": "1000",
   "Company": "Professor Puzzle",
   "Size": "29 X 19",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_114.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_114.JPG"
 },{
   "PuzzleNum": "115",
   "Title": "Yosemite National Park",
   "Pieces": "500",
   "Company": "Professor Puzzle",
   "Size": "19 X 14",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_115.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_115.JPG"
 },{
   "PuzzleNum": "116",
   "Title": "Joshua Tree National Park",
   "Pieces": "500",
   "Company": "Professor Puzzle",
   "Size": "19 X 14",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_116.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_116.JPG"
 },{
   "PuzzleNum": "117",
   "Title": "Yellowstone National Park",
   "Pieces": "750",
   "Company": "Professor Puzzle",
   "Size": "24 X 15",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_117.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_117.JPG"
 },{
   "PuzzleNum": "118",
   "Title": "Glacier National Park",
   "Pieces": "500",
   "Company": "Professor Puzzle",
   "Size": "19 X 14",
-  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_118.jpg"
+  "URL": "https://github.com/DALeske/DALeske.github.io/blob/main/static/images/Puzzle_118.JPG"
 },{
   "PuzzleNum": "119",
   "Title": "Unknown",
@@ -900,7 +900,7 @@ var puz_data = [{
   "Pieces": "1000",
   "Company": "Ravensburger",
   "Size": "27 X 20",
-  "URL": "https://github.com/DALeske/puzzle/blob/main/static/images/Puzzle_129.jpg"
+  "URL": "https://github.com/DALeske/puzzle/blob/main/static/images/Puzzle_129.jpeg"
 },{
   "PuzzleNum": "130",
   "Title": "Animal Yoga",
@@ -1026,7 +1026,7 @@ var puz_data = [{
   "Pieces": "1000",
   "Company": "The OP Puzzles",
   "Size": "19 X 27",
-  "URL": "https://github.com/DALeske/puzzle/blob/main/static/images/Puzzle_147.jpg"
+  "URL": "https://github.com/DALeske/puzzle/blob/main/static/images/Puzzle_147.jpeg"
 },{
   "PuzzleNum": "148",
   "Title": "Gnomes Get Baking",
