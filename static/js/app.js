@@ -17,12 +17,15 @@ function buildTable(data) {
 
     // Loop through each field in the dataRow and add
     // each value as a table cell (td)
-    Object.values(dataRow).forEach((val) => {
-      
-
-        let cell = row.append("td");
-      cell.text(val);
-   
+    Object.entries(dataRow).forEach(([key, val]) => {
+      let cell = row.append("td");
+      if (key === 'URL') {
+        // If the key is 'URL', create an anchor element
+        cell.html(`<a href="${val}" target="_blank">${val}</a>`);
+      } else {
+        // Otherwise, just add the text as before
+        cell.text(val);
+      }
 
     });
   });
