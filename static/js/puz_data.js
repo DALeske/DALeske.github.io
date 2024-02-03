@@ -1,32 +1,4 @@
 var puz_data = [{
-  "PuzzleNum": "222",
-  "Title": "Lighthouse",
-  "Pieces": "500",
-  "Company": "Re-marks",
-  "Size": "24 X 18",
-  "URL": "//Puzzle_001.JPG"
-},{
-  "PuzzleNum": "333",
-  "Title": "Lighthouse",
-  "Pieces": "500",
-  "Company": "Re-marks",
-  "Size": "24 X 18",
-  "URL": "../Puzzle_001.JPG"
-},{
-  "PuzzleNum": "444",
-  "Title": "Lighthouse",
-  "Pieces": "500",
-  "Company": "Re-marks",
-  "Size": "24 X 18",
-  "URL": "..Puzzle_001.JPG"
-},{
-  "PuzzleNum": "555",
-  "Title": "Lighthouse",
-  "Pieces": "500",
-  "Company": "Re-marks",
-  "Size": "24 X 18",
-  "URL": "Puzzle_001.JPG"
-},{
   "PuzzleNum": "1",
   "Title": "Lighthouse",
   "Pieces": "500",
