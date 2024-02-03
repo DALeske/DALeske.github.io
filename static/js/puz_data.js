@@ -1,4 +1,11 @@
 var puz_data = [{
+  "PuzzleNum": "1000",
+  "Title": "Lighthouse-Test",
+  "Pieces": "500",
+  "Company": "Re-marks",
+  "Size": "24 X 18",
+  "URL": "static/images/Puzzle_001.JPG"
+},{
   "PuzzleNum": "1",
   "Title": "Lighthouse",
   "Pieces": "500",
