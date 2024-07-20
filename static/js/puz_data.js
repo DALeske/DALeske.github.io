@@ -1,4 +1,4 @@
-[{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company": "Re-marks","Size": "24 X 18","URL": "https://github.com/DALeske/DALeske.github.io/tree/main/static/images/Puzzle_001.JPG"},
+var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company": "Re-marks","Size": "24 X 18","URL": "https://github.com/DALeske/DALeske.github.io/tree/main/static/images/Puzzle_001.JPG"},
   {"PuzzleNum": "2","Title": "Cakes","Pieces": "500","Company": "Galison","Size": "20 X 20","URL": "https://github.com/DALeske/DALeske.github.io/tree/main/static/images/Puzzle_002.jpg"},
   {"PuzzleNum": "3","Title": "More Ice Cream Please","Pieces": "500","Company": "Cobble Hill","Size": "24 X 18","URL": "https://github.com/DALeske/DALeske.github.io/tree/main/static/images/Puzzle_003.jpg"},
   {"PuzzleNum": "4","Title": "Artsy Cats","Pieces": "500","Company": "Mudpuppy","Size": "20 X 20","URL": "https://github.com/DALeske/DALeske.github.io/tree/main/static/images/Puzzle_004.jpg"},
