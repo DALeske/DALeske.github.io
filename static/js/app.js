@@ -1,6 +1,6 @@
 
 // from puz_data.js
-const tableData = puz_data.js;
+const tableData = puz_data;
 
 // get table references
 var tbody = d3.select("tbody");
