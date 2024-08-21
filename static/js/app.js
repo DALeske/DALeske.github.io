@@ -26,7 +26,7 @@ function buildTable(data) {
 
         // Add another cell with the thumbnail image
         let imgCell = row.append("td");
-        imgCell.html(`<img src="${val}" alt="Thumbnail" style="width:70px;height:auto;">`);
+        imgCell.html(`<img src="${val}" alt="Thumbnail" style="width:100px;height:auto;">`);
 
       } else {
         // Otherwise, just add the text as before
