@@ -3,7 +3,7 @@ var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company
   {"PuzzleNum": "3","Title": "More Ice Cream Please","Pieces": "500","Company": "Cobble Hill","Size": "24 X 18","URL": "static/images/Puzzle_003.jpg","Missing":"1"},
   {"PuzzleNum": "4","Title": "Artsy Cats","Pieces": "500","Company": "Mudpuppy","Size": "20 X 20","URL": "static/images/Puzzle_004.jpg","Missing":""},
   {"PuzzleNum": "5","Title": "Air Mail","Pieces": "500","Company": "Re-marks","Size": "20 X 16","URL": "static/images/Puzzle_005.jpg","Missing":""},
-  {"PuzzleNum": "6","Title": "Alpaca Lunch","Pieces": "500","Company": "Ravensburger","Size": "19.5 X 14.25","URL": "static/images/Puzzle_006.jpeg","Missing":"0"},
+  {"PuzzleNum": "6","Title": "Alpaca Lunch","Pieces": "500","Company": "Ravensburger","Size": "19.5 X 14.25","URL": "static/images/Puzzle_006.jpg","Missing":"0"},
   {"PuzzleNum": "7","Title": "Kitchen Cupboard","Pieces": "500","Company": "Ravensburger","Size": "19.5 X 14.25","URL": "static/images/Puzzle_007.jpg","Missing":""},
   {"PuzzleNum": "8","Title": "99 Beautiful Places","Pieces": "500","Company": "Ravensburger","Size": "19.5 X 14.25","URL": "static/images/Puzzle_008.jpg","Missing":""},
   {"PuzzleNum": "9","Title": "Songbirds","Pieces": "500","Company": "Mudpuppy","Size": "20 X 20","URL": "static/images/Puzzle_009.jpg","Missing":""},
