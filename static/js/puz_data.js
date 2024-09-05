@@ -172,5 +172,6 @@ var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company
   {"PuzzleNum": "172","Title": "Backyard BBQ","Pieces": "1000","Company": "White Mountain","Size": "30 X 24","URL": "static/images/Puzzle_172.jpg","Missing":""},
   {"PuzzleNum": "173","Title": "Blossoms and Kittens Quilt","Pieces": "1000","Company": "Cobble Hill","Size": "26.625 X 19.25","URL": "static/images/Puzzle_173.jpg","Missing":""},
   {"PuzzleNum": "174","Title": "Honey and Tea","Pieces": "1000","Company": "Sunsout","Size": "35 X 27","URL": "static/images/Puzzle_174.jpg","Missing":""},
-  {"PuzzleNum": "175","Title": "Christmas Carolers","Pieces": "1000","Company": "Galison","Size": "27 X 20","URL": "static/images/Puzzle_175.jpg","Missing":""}
+  {"PuzzleNum": "175","Title": "Christmas Carolers","Pieces": "1000","Company": "Galison","Size": "27 X 20","URL": "static/images/Puzzle_175.jpg","Missing":""},
+  {"PuzzleNum": "176","Title": "Minnesota State Parks","Pieces": "1000","Company": "Puzzle Twist","Size": "19.25 X 25.63","URL": "static/images/Puzzle_176.jpeg","Missing":"0"},
   ]
