@@ -174,4 +174,7 @@ var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company
   {"PuzzleNum": "174","Title": "Honey and Tea","Pieces": "1000","Company": "Sunsout","Size": "35 X 27","URL": "static/images/Puzzle_174.jpg","Missing":""},
   {"PuzzleNum": "175","Title": "Christmas Carolers","Pieces": "1000","Company": "Galison","Size": "27 X 20","URL": "static/images/Puzzle_175.jpg","Missing":""},
   {"PuzzleNum": "176","Title": "Minnesota State Parks","Pieces": "1000","Company": "Puzzle Twist","Size": "19.25 X 25.63","URL": "static/images/Puzzle_176.jpeg","Missing":"0"},
+  {"PuzzleNum": "177","Title": "Disney Storytime","Pieces": "1500","Company": "Ceaco","Size": "32 X 24","URL": "static/images/Puzzle_177.jpg","Missing":"0"},
+  {"PuzzleNum": "178","Title": "Morning Deliveries","Pieces": "300","Company": "Master Pieces","Size": "24 X 18","URL": "static/images/Puzzle_178.jpg","Missing":"0"},
+  {"PuzzleNum": "179","Title": "Jodi's Antique Barn","Pieces": "300","Company": "MasterPieces","Size": "24 X 18","URL": "static/images/Puzzle_179.jpg","Missing":"0"},
   ]
