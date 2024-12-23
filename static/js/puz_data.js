@@ -179,5 +179,5 @@ var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company
   {"PuzzleNum": "179","Title": "Jodi's Antique Barn","Pieces": "300","Company": "MasterPieces","Size": "24 X 18","URL": "static/images/Puzzle_179.jpg","Missing":"0"},
   {"PuzzleNum": "180","Title": "Christmas Puppies","Pieces": "500","Company": "Cobble Hill","Size": "26.63 X 19.25","URL": "static/images/Puzzle_180.jpeg","Missing":"0"},
   {"PuzzleNum": "181","Title": "Intentional Kindness","Pieces": "500","Company": "Puzzle Twist","Size": "26.63 X 19.25","URL": "static/images/Puzzle_181.jpeg","Missing":"0"},
-  {"PuzzleNum": "182","Title": "One December Night","Pieces": "1000","Company": "Cobble Hill","Size": "26.63 X 19.25","URL": "static/images/Puzzle_182.jpg","Missing":"0"},
+  {"PuzzleNum": "182","Title": "One December Night","Pieces": "1000","Company": "Cobble Hill","Size": "26.63 X 19.25","URL": "static/images/Puzzle_182.jpg","Missing":"0"}
 ]
