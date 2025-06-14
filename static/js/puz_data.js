@@ -181,5 +181,9 @@ var puz_data = [{"PuzzleNum": "1","Title": "Lighthouse","Pieces": "500","Company
   {"PuzzleNum": "181","Title": "Intentional Kindness","Pieces": "500","Company": "Puzzle Twist","Size": "26.63 X 19.25","URL": "static/images/Puzzle_181.jpeg","Missing":"0"},
   {"PuzzleNum": "182","Title": "One December Night","Pieces": "1000","Company": "Cobble Hill","Size": "26.63 X 19.25","URL": "static/images/Puzzle_182.jpg","Missing":"0"},
   {"PuzzleNum": "183","Title": "Northern Lights","Pieces": "500","Company": "Ravensburger","Size": "27 X 20","URL": "static/images/Puzzle_183.jpg","Missing":"0"},
-  {"PuzzleNum": "184","Title": "Wilderness","Pieces": "500","Company": "Ravensburger","Size": "27 X 20","URL": "static/images/Puzzle_184.jpg","Missing":"0"}
-]
+  {"PuzzleNum": "184","Title": "Wilderness","Pieces": "500","Company": "Ravensburger","Size": "27 X 20","URL": "static/images/Puzzle_184.jpg","Missing":"0"},
+  {"PuzzleNum": "185","Title": "Disney Portraits","Pieces": "500","Company": "Ravensburger","Size": "19.3 X 14.25","URL": "static/images/Puzzle_185.jpg","Missing":"0"},
+  {"PuzzleNum": "186","Title": "Home Sweet Home","Pieces": "500","Company": "Ravensburger","Size": "19.3 X 14.25","URL": "static/images/Puzzle_186.jpg","Missing":"0"},
+  {"PuzzleNum": "187","Title": "Rainbow Cats","Pieces": "500","Company": "Cobble Hill","Size": "26.63 X 19.25","URL": "static/images/Puzzle_187.jpg","Missing":"0"},
+  {"PuzzleNum": "188","Title": "Broadway Musicals","Pieces": "1000","Company": "Re-marks","Size": "39 X 13","URL": "static/images/Puzzle_188.jpeg","Missing":"0"}
+  ]
